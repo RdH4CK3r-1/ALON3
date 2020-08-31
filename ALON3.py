@@ -213,8 +213,8 @@ print  """
 \033[1;92m•───────────────────────────────────────────•
  \033[1;97m•▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
  """
-CorrectUsername = "MRSH4DOW"
-CorrectPassword = "ALONE"
+CorrectUsername = "rdwn"
+CorrectPassword = "rdwn"
 
 loop = 'true'
 while (loop == 'true'):
